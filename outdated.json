@@ -1,0 +1,135 @@
+{
+  "@ianvs/prettier-plugin-sort-imports": {
+    "current": "4.1.1",
+    "wanted": "4.3.1",
+    "latest": "4.3.1",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@ianvs/prettier-plugin-sort-imports"
+  },
+  "@types/node": {
+    "current": "20.11.19",
+    "wanted": "20.16.10",
+    "latest": "22.7.4",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@types/node"
+  },
+  "@types/react": {
+    "current": "18.2.57",
+    "wanted": "18.3.11",
+    "latest": "18.3.11",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@types/react"
+  },
+  "@types/react-dom": {
+    "current": "18.2.19",
+    "wanted": "18.3.0",
+    "latest": "18.3.0",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@types/react-dom"
+  },
+  "@typescript-eslint/eslint-plugin": {
+    "current": "7.0.2",
+    "wanted": "7.18.0",
+    "latest": "8.8.0",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@typescript-eslint/eslint-plugin"
+  },
+  "@typescript-eslint/parser": {
+    "current": "7.0.2",
+    "wanted": "7.18.0",
+    "latest": "8.8.0",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/@typescript-eslint/parser"
+  },
+  "autoprefixer": {
+    "current": "10.4.17",
+    "wanted": "10.4.20",
+    "latest": "10.4.20",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/autoprefixer"
+  },
+  "eslint": {
+    "current": "8.56.0",
+    "wanted": "8.57.1",
+    "latest": "9.12.0",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/eslint"
+  },
+  "eslint-config-next": {
+    "current": "14.1.0",
+    "wanted": "14.2.14",
+    "latest": "14.2.14",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/eslint-config-next"
+  },
+  "husky": {
+    "current": "8.0.3",
+    "wanted": "8.0.3",
+    "latest": "9.1.6",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/husky"
+  },
+  "lint-staged": {
+    "current": "15.2.2",
+    "wanted": "15.2.10",
+    "latest": "15.2.10",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/lint-staged"
+  },
+  "next": {
+    "current": "14.1.0",
+    "wanted": "14.2.14",
+    "latest": "14.2.14",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/next"
+  },
+  "postcss": {
+    "current": "8.4.35",
+    "wanted": "8.4.47",
+    "latest": "8.4.47",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/postcss"
+  },
+  "prettier": {
+    "current": "3.2.5",
+    "wanted": "3.3.3",
+    "latest": "3.3.3",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/prettier"
+  },
+  "prettier-plugin-tailwindcss": {
+    "current": "0.5.11",
+    "wanted": "0.5.14",
+    "latest": "0.6.8",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/prettier-plugin-tailwindcss"
+  },
+  "react": {
+    "current": "18.2.0",
+    "wanted": "18.3.1",
+    "latest": "18.3.1",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/react"
+  },
+  "react-dom": {
+    "current": "18.2.0",
+    "wanted": "18.3.1",
+    "latest": "18.3.1",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/react-dom"
+  },
+  "tailwindcss": {
+    "current": "3.4.1",
+    "wanted": "3.4.13",
+    "latest": "3.4.13",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/tailwindcss"
+  },
+  "typescript": {
+    "current": "5.3.3",
+    "wanted": "5.6.2",
+    "latest": "5.6.2",
+    "dependent": "next-js-launchpad-Auto-update-Dependencies-4",
+    "location": "/home/runner/work/next-js-launchpad-Auto-update-Dependencies-4/next-js-launchpad-Auto-update-Dependencies-4/node_modules/typescript"
+  }
+}
